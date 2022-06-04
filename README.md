@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srabo</h1>
-<h3 align="center">An ambitious junior Developer</h3>
+<h3 align="center">An Ambitious Junior Developer</h3>
 
-- 🌱 I’m currently learning **React, Firebase, NodeJS, MongoDB, ExpressJS**
+🌱 I’m currently learning **React, Firebase, NodeJS, MongoDB, ExpressJS**
 
 <p align="left">My biggest projects so far are the <a href="https://github.com/Srabo93/PhotoGallery_REACT">Photo Gallery App</a> and <a href="https://github.com/Srabo93/DevCamper_API_NODE_JS">Bootcamp API</a>.</p>
 <p align="left">I have spent most of my young developer career in the Front-End, Front-End library of choice -> REACT.</p>
