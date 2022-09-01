@@ -6,13 +6,9 @@
 <p align="left">My biggest projects so far are the <a href="https://github.com/Srabo93/PhotoGallery_REACT">Photo Gallery App</a> and <a href="https://github.com/Srabo93/DevCamper_API_NODE_JS">Bootcamp API</a>.</p>
 
 </br>
-<h5 align="left">My Goals:</h5>
-<ul>
-  <li>Hone my skills in React, Rredux, NodeJS, Express</li>
-  <li>gather experiences with different UI Libraries</li>
-  </ul>
 <h5 align="left">Future Goals:</h5>
 <ul>
+  <li>Hone my skills in React, Redux, NodeJS, Express</li>
   <li>Develop Webservices in other languages (Python, GO)</li>
   <li>Incorporate TypeScript / Rework Projects to TypeScript </li>
   <li>Develop a React Native App</li>
