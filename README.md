@@ -12,7 +12,6 @@
   <li>Develop Webservices in other languages (Python, GO)</li>
   <li>Incorporate TypeScript / Rework Projects to TypeScript </li>
   <li>Develop a React Native App</li>
-  <li>Develop MERN Stack APP's</li>
   </ul>
   
   
