@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning **React, NodeJS, MongoDB, ExpressJS, SQL**
 
-<p align="left">My biggest projects so far are the <a href="https://github.com/Srabo93/PhotoGallery_REACT">Photo Gallery App</a> and <a href="https://github.com/Srabo93/DevCamper_API_NODE_JS">Bootcamp API</a>.</p>
+<p align="left">My biggest projects so far are the <a href="https://github.com/Srabo93/PhotoGallery_REACT">Photo Gallery App</a> and <a href="https://github.com/Srabo93/DevCamper_API_NODE_JS">Bootcamp API</a>,  <a href="https://github.com/Srabo93/ProShop_FullStack_MERN">Proshop E-Commerce</a>.</p>
 
 </br>
 <h5 align="left">Future Goals:</h5>
