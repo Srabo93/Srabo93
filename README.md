@@ -8,7 +8,7 @@
 </br>
 <h5 align="left">Future Goals:</h5>
 <ul>
-  <li>Hone my skills in React, Redux, NodeJS, Express</li>
+  <li>Hone my skills in React, State Management, NodeJS, Express</li>
   <li>Develop Webservices in other languages (Python, GO)</li>
   <li>Incorporate TypeScript / Rework Projects to TypeScript </li>
   <li>Develop a React Native App</li>
