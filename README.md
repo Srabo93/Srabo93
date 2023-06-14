@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Express, TypeScript, JavaScript**
 
-- ⚡ Fun fact **lowkey Tech Meme addict**
+- ⚡ Fun fact **I am a lowkey Tech Meme addict**
 
 
 
