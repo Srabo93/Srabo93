@@ -1,4 +1,4 @@
-\<h1 align="center">Hi 👋, I'm Armin</h1>
+<h1 align="center">Hi 👋, I'm Armin</h1>
 <h3 align="center">Webdeveloper</h3>
 
 - 🌱 I’m currently learning **React, Express, TypeScript, JavaScript**
