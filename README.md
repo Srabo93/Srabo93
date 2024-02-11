@@ -4,6 +4,6 @@ With over 4 years in web development, I excel at crafting solutions and navigati
 
 💻 Languages: JavaScript, PHP
 
-JavaScript Frameworks: React
-PHP Framework: Symfony
-Currently learning: Next.js
+- JavaScript Frameworks: React
+- PHP Framework: Symfony
+- Currently learning: Next.js
